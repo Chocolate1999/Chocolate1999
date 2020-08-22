@@ -1,4 +1,12 @@
-<h3 align="center">👋 Hello! I'm Chocolate.</h3>
+### Hi 👋 你也可以从以下地方找到我
+
+- 公众号：小狮子前端Vue
+- [掘金：一百个Chocolate](https://juejin.im/user/2981531267112520)
+- [CSDN：一百个Chocolate](https://chocolate.blog.csdn.net/)
+- [B站：一百个Chocolate](https://space.bilibili.com/351534170)
+- [前端博客网站](https://yangchaoyi.vip/)
+
+座右铭：学如逆水行舟，不进则退！
 
 <!--
 **Chocolate1999/Chocolate1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Hemant Joshi Github Stats](https://github-readme-stats.vercel.app/api?username=Chocolate1999&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=["contribs"])
+![Geekhyt github stats](https://github-readme-stats.vercel.app/api?username=Chocolate1999&show_icons=true)
