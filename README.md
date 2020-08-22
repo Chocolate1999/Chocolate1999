@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hello! I'm HCLonely.</h3>
+<h3 align="center">👋 Hello! I'm Chocolate.</h3>
 
 <!--
 **Chocolate1999/Chocolate1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
