@@ -16,7 +16,12 @@
 <a href="https://alili.tech"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
 - 👨🏻‍💻  [小狮子前端笔记仓库](https://github.com/Chocolate1999/Front-end-learning-to-organize-notes)
 - 👩🏻‍💻  [leetcode-javascript](https://github.com/Chocolate1999/leetcode-javascript)
-
+- 👩🏻‍💻  [【亡羊补牢】JS灵魂之问](https://blog.csdn.net/weixin_42429718/category_10357771.html)
+- 👨🏻‍💻  [【亡羊补牢】挑战数据结构与算法](https://blog.csdn.net/weixin_42429718/category_10357778.html)
+- 👩🏻‍💻  [【亡羊补牢】计算机网络灵魂之问](https://blog.csdn.net/weixin_42429718/category_10357781.html)
+- 👨🏻‍💻  [【亡羊补牢】操作系统灵魂之问](https://blog.csdn.net/weixin_42429718/category_10357782.html)
+- 👨🏻‍💻  [博客搭建教程](https://github.com/Chocolate1999/hexo-blog-lionkk)
+- 👩🏻‍💻  [Vue全家桶系列](https://blog.csdn.net/weixin_42429718/category_9656024.html)
 
 
 
@@ -42,7 +47,7 @@ Here are some ideas to get you started:
 [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=alili.tech&url=https%3a%2f%2falili.tech)](https://alili.tech)
+[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=alili.tech&url=https://yangchaoyi.vip/)](https://yangchaoyi.vip/)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
