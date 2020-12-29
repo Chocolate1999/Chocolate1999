@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <strong><a href="https://chocolate.blog.csdn.net/">公众号：小狮子前端Vue</a></strong> |
+  <strong><a href="https://chocolate.blog.csdn.net/">公众号：小狮子前端</a></strong> |
   <strong><a href="https://chocolate.blog.csdn.net/">CSDN</a></strong> |
   <strong><a href="https://space.bilibili.com/351534170">B站</a></strong> |
   <strong><a href="https://juejin.im/user/2981531267112520">掘金</a></strong>  |
