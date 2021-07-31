@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <strong><a href="https://chocolate.blog.csdn.net/">公众号：小狮子前端</a></strong> |
+  <strong><a href="https://mp.weixin.qq.com/s?__biz=MzI0MzkxMDU1Ng==&mid=2247485915&idx=1&sn=a28c74a4edb5a3657dcb9f60ae9478cf&chksm=e9649b28de13123e916fae783ec2fd1f4c82dc1f300b80f7d4eda61488853801fdd458c7cda7&token=1308321956&lang=zh_CN#rd">公众号：小狮子前端</a></strong> |
   <strong><a href="https://chocolate.blog.csdn.net/">CSDN</a></strong> |
   <strong><a href="https://space.bilibili.com/351534170">B站</a></strong> |
   <strong><a href="https://juejin.im/user/2981531267112520">掘金</a></strong>  |
@@ -22,6 +22,7 @@
 - 👨🏻‍💻  [【亡羊补牢】操作系统灵魂之问](https://blog.csdn.net/weixin_42429718/category_10357782.html)
 - 👨🏻‍💻  [博客搭建教程](https://github.com/Chocolate1999/hexo-blog-lionkk)
 - 👩🏻‍💻  [Vue全家桶系列](https://blog.csdn.net/weixin_42429718/category_9656024.html)
+- 👨🏻‍💻 [React 进阶小册](https://blog.csdn.net/weixin_42429718/category_11084201.html)
 
 
 
