@@ -23,6 +23,8 @@
 
 希望能在 22 年在哔哩哔哩达成 10w 粉丝成就，<a href="https://space.bilibili.com/351534170">B 站：一百个Chocolate</a><br/>座右铭：学如逆水行舟，不进则退。<br/> QQ交流群：666151691
 
+[:fire:2022 年的成长记录](https://github.com/Chocolate1999/Chocolate-2022)
+
 
 <a href="https://alili.tech"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/Chocolate1999/count.svg" /></a>
 
