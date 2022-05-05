@@ -11,8 +11,11 @@
   <strong><a href="https://yangchaoyi.vip/">前端博客网站</a></strong>  
 </p>
 
+
+
 ## 2022 年目标
 
+2022 年 5 月更新，我们新建了一个<a href="https://docs.yangchaoyi.vip/" target="_blank">免费的文档网站</a>，一站式获取前端知识笔记大全，欢迎访问：https://docs.yangchaoyi.vip/<br/>我是 Chocolate，一个小帅哥和某厂前端开发程序员，在这里分享知识与日常总结。
 
 博主 21 届本科毕业，可以称呼我 Chocolate，在这里分享知识与日常总结。
 
