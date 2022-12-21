@@ -30,3 +30,9 @@ bilibili 达成 `10000` 粉丝成就，[关注这个持续学习的 UP](https://
 <a href="https://alili.tech"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/Chocolate1999/count.svg" /></a>
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#8](https://github.com/Chocolate1999/chodocs/pull/8) in [Chocolate1999/chodocs](https://github.com/Chocolate1999/chodocs)
+2. ❗️ Closed issue [#6](https://github.com/Chocolate1999/chodocs/issues/6) in [Chocolate1999/chodocs](https://github.com/Chocolate1999/chodocs)
+3. ❗️ Opened issue [#7](https://github.com/Chocolate1999/chodocs/issues/7) in [Chocolate1999/chodocs](https://github.com/Chocolate1999/chodocs)
+4. ❗️ Opened issue [#6](https://github.com/Chocolate1999/chodocs/issues/6) in [Chocolate1999/chodocs](https://github.com/Chocolate1999/chodocs)
+5. 🎉 Merged PR [#4](https://github.com/Chocolate1999/chodocs/pull/4) in [Chocolate1999/chodocs](https://github.com/Chocolate1999/chodocs)
+<!--END_SECTION:activity-->
