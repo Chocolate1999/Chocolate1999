@@ -12,7 +12,7 @@
 
 [:fire: 2022 年の成长记录](https://github.com/Chocolate1999/Chocolate-2022)
 
-[:rocket: 2023 年の成长记录](https://github.com/Chocolate1999/Chocolate-2022)（即将到来）
+[:rocket: 2023 年の成长记录](https://github.com/users/Chocolate1999/projects/1)
 
 ## 2022 年目标 :dart:
 
