@@ -32,9 +32,9 @@ bilibili 达成 `10000` 粉丝成就，[关注这个持续学习的 UP](https://
 ## 动态 :zap:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#21](https://github.com/Chocolate1999/chodocs/pull/21) in [Chocolate1999/chodocs](https://github.com/Chocolate1999/chodocs)
-2. 🎉 Merged PR [#20](https://github.com/Chocolate1999/chodocs/pull/20) in [Chocolate1999/chodocs](https://github.com/Chocolate1999/chodocs)
-3. 💪 Opened PR [#20](https://github.com/Chocolate1999/chodocs/pull/20) in [Chocolate1999/chodocs](https://github.com/Chocolate1999/chodocs)
-4. ❗️ Opened issue [#19](https://github.com/Chocolate1999/chodocs/issues/19) in [Chocolate1999/chodocs](https://github.com/Chocolate1999/chodocs)
-5. ❗️ Opened issue [#18](https://github.com/Chocolate1999/chodocs/issues/18) in [Chocolate1999/chodocs](https://github.com/Chocolate1999/chodocs)
+1. 🎉 Merged PR [#22](https://github.com/Chocolate1999/chodocs/pull/22) in [Chocolate1999/chodocs](https://github.com/Chocolate1999/chodocs)
+2. 🎉 Merged PR [#21](https://github.com/Chocolate1999/chodocs/pull/21) in [Chocolate1999/chodocs](https://github.com/Chocolate1999/chodocs)
+3. 💪 Opened PR [#21](https://github.com/Chocolate1999/chodocs/pull/21) in [Chocolate1999/chodocs](https://github.com/Chocolate1999/chodocs)
+4. 🎉 Merged PR [#20](https://github.com/Chocolate1999/chodocs/pull/20) in [Chocolate1999/chodocs](https://github.com/Chocolate1999/chodocs)
+5. 💪 Opened PR [#20](https://github.com/Chocolate1999/chodocs/pull/20) in [Chocolate1999/chodocs](https://github.com/Chocolate1999/chodocs)
 <!--END_SECTION:activity-->
