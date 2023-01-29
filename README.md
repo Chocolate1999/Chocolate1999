@@ -32,9 +32,9 @@ bilibili 达成 `10000` 粉丝成就，[关注这个持续学习的 UP](https://
 ## 动态 :zap:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#38](https://github.com/Chocolate1999/hexo-blog-lionkk/pull/38) in [Chocolate1999/hexo-blog-lionkk](https://github.com/Chocolate1999/hexo-blog-lionkk)
-2. 🎉 Merged PR [#39](https://github.com/Chocolate1999/hexo-blog-lionkk/pull/39) in [Chocolate1999/hexo-blog-lionkk](https://github.com/Chocolate1999/hexo-blog-lionkk)
-3. 🎉 Merged PR [#40](https://github.com/Chocolate1999/hexo-blog-lionkk/pull/40) in [Chocolate1999/hexo-blog-lionkk](https://github.com/Chocolate1999/hexo-blog-lionkk)
-4. 🎉 Merged PR [#66](https://github.com/chodocs/chodocs/pull/66) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
-5. 💪 Opened PR [#66](https://github.com/chodocs/chodocs/pull/66) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
+1. 💪 Opened PR [#67](https://github.com/chodocs/chodocs/pull/67) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
+2. 🎉 Merged PR [#38](https://github.com/Chocolate1999/hexo-blog-lionkk/pull/38) in [Chocolate1999/hexo-blog-lionkk](https://github.com/Chocolate1999/hexo-blog-lionkk)
+3. 🎉 Merged PR [#39](https://github.com/Chocolate1999/hexo-blog-lionkk/pull/39) in [Chocolate1999/hexo-blog-lionkk](https://github.com/Chocolate1999/hexo-blog-lionkk)
+4. 🎉 Merged PR [#40](https://github.com/Chocolate1999/hexo-blog-lionkk/pull/40) in [Chocolate1999/hexo-blog-lionkk](https://github.com/Chocolate1999/hexo-blog-lionkk)
+5. 🎉 Merged PR [#66](https://github.com/chodocs/chodocs/pull/66) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
 <!--END_SECTION:activity-->
