@@ -32,9 +32,9 @@ bilibili 达成 `10000` 粉丝成就，[关注这个持续学习的 UP](https://
 ## 动态 :zap:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#111](https://github.com/chodocs/chodocs/pull/111) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
-2. 💪 Opened PR [#111](https://github.com/chodocs/chodocs/pull/111) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
-3. 🎉 Merged PR [#84](https://github.com/chodocs/chodocs/pull/84) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
-4. 🎉 Merged PR [#110](https://github.com/chodocs/chodocs/pull/110) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
-5. 🎉 Merged PR [#109](https://github.com/chodocs/chodocs/pull/109) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
+1. 🎉 Merged PR [#28](https://github.com/Chocolate1999/Vue-family/pull/28) in [Chocolate1999/Vue-family](https://github.com/Chocolate1999/Vue-family)
+2. 🎉 Merged PR [#33](https://github.com/Chocolate1999/Vue-family/pull/33) in [Chocolate1999/Vue-family](https://github.com/Chocolate1999/Vue-family)
+3. 🎉 Merged PR [#43](https://github.com/Chocolate1999/Vue-family/pull/43) in [Chocolate1999/Vue-family](https://github.com/Chocolate1999/Vue-family)
+4. 🎉 Merged PR [#111](https://github.com/chodocs/chodocs/pull/111) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
+5. 💪 Opened PR [#111](https://github.com/chodocs/chodocs/pull/111) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
 <!--END_SECTION:activity-->
