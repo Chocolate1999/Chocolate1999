@@ -23,6 +23,9 @@ bilibili 达成 `10000` 粉丝成就，[关注这个持续学习的 UP](https://
 
 <a href="https://alili.tech"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/Chocolate1999/count.svg" /></a>
 
+
+[![profile](https://github-profile-trophy.vercel.app/?username=Chocolate1999&theme=algolia&column=8)](https://github-profile-trophy.vercel.app/?username=Chocolate1999&theme=algolia&column=8)
+
 ## 动态 :zap:
 
 <!--START_SECTION:activity-->
