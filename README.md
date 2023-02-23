@@ -35,10 +35,12 @@ bilibili 达成 `10000` 粉丝成就，[关注这个持续学习的 UP](https://
 <table align="center">
 <tr>
 <td valign="top">
-<!--START_SECTION:activity-->
 
+<!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+
 </td>
 </tr>
 </table>
+
 </details>
