@@ -2,10 +2,10 @@ name: bilibili box
 on:
   push:
     branches:
-      - master
+      - main
   pull_request:
     branches:
-      - master
+      - main
   schedule:
     - cron: "12 3 * * *"
 
