@@ -1,4 +1,4 @@
-## 我是 Chocolate :chocolate_bar:
+## :chocolate_bar: 我是 Chocolate 
 
 - :apple: 大厂前端开发，21 届本科毕业，React 与 Vue 重度爱好者，前端领域优质博主，[CSDN 博客专家](https://chocolate.blog.csdn.net/)
 - :cookie: 我的视频：[B 站 UP 主「一百个 Chocolate」](https://space.bilibili.com/351534170)（`读文档，学源码，前沿技术跟进`）
@@ -7,8 +7,9 @@
 - :strawberry: 更新频率：每周暂定 3 - 5 篇文章，用心做好原创内容。
 - :tangerine: 交个朋友：微信号「ybgChocolate」（添加请备注事由）
 - :watermelon: 活跃社区：[csdn](https://chocolate.blog.csdn.net/) | [juejin](https://juejin.im/user/2981531267112520) | [zhihu](https://www.zhihu.com/people/100chocolate)
+- :earth_asia: 知识星球：[小狮子前端](https://chodocs.cn/zsxq.html)
 
-## 2023 年目标 :dart:
+## :dart: 2023 年目标 
 
 bilibili 达成 `10000` 粉丝成就，[关注这个持续学习的 UP](https://space.bilibili.com/351534170)
 
@@ -16,7 +17,25 @@ bilibili 达成 `10000` 粉丝成就，[关注这个持续学习的 UP](https://
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=Chocolate1999.Chocolate1999)](https://visitor-badge.laobi.icu/badge?page_id=Chocolate1999.Chocolate1999)
 [![stars](https://img.shields.io/github/stars/Chocolate1999?color=fefb7b&logo=Undertale)](https://github-readme-stats.vercel.app/api?username=Chocolate1999&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
 
-## 项目 :tada:
+## :computer: 语言工具
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="40" height="40" alt="webpack"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="nodejs"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  width="40" height="40" alt="github"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="vscode"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" height="40" alt="markdown"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="40" height="40" alt="chrome"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" width="40" height="40" alt="firefox"/>          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" width="40" height="40" alt="safari"/>          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="figma"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="40" height="40" alt="typescript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="html5"/>
+
+## :tada: 项目 
 
 - [CODING 官网](https://coding.net/)（使用 Next.js + Tailwind CSS）
 - 更多内容，查看 [Projects](https://blog.yangchaoyi.vip/projects)
@@ -27,7 +46,7 @@ bilibili 达成 `10000` 粉丝成就，[关注这个持续学习的 UP](https://
 
 [![profile](https://github-profile-trophy.vercel.app/?username=Chocolate1999&theme=algolia&column=8)](https://github-profile-trophy.vercel.app/?username=Chocolate1999&theme=algolia&column=8)
 
-## 动态 :zap:
+## :zap: 动态 
 
 <details>
 <summary>点击展开</summary>
