@@ -4,7 +4,7 @@
 - :cookie: 我的视频：[B 站 UP 主「一百个 Chocolate」](https://space.bilibili.com/351534170)（`读文档，学源码，前沿技术跟进`）
 - :strawberry: 更新频率：工作日会更新编程类视频，每周暂定 2 期，周末随缘更新内容。
 - :honey_pot: 我的文章：[公众号「小狮子前端」](https://img-blog.csdnimg.cn/img_convert/43c196751f4984c71011557d06e7e9b6.png)（`技术类以及个人思考类文章`）
-- :strawberry: 更新频率：每周暂定 3 - 5 篇文章，用心做好原创内容。
+- :strawberry: 更新频率：不定期更新，用心做好原创内容。
 - :tangerine: 交个朋友：微信号「ybgChocolate」（添加请备注事由）
 - :watermelon: 活跃社区：[csdn](https://chocolate.blog.csdn.net/) | [juejin](https://juejin.im/user/2981531267112520) | [zhihu](https://www.zhihu.com/people/100chocolate)
 - :earth_asia: 知识星球：[小狮子前端](https://chodocs.cn/zsxq.html)
