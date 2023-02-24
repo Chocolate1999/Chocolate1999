@@ -19,6 +19,7 @@ bilibili 达成 `10000` 粉丝成就，[关注这个持续学习的 UP](https://
 
 ## :computer: 语言工具
 
+<div style="flex">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/>
@@ -34,6 +35,7 @@ bilibili 达成 `10000` 粉丝成就，[关注这个持续学习的 UP](https://
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="figma"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="40" height="40" alt="typescript"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="html5"/>
+</div>
 
 ## :tada: 项目 
 
@@ -56,11 +58,11 @@ bilibili 达成 `10000` 粉丝成就，[关注这个持续学习的 UP](https://
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#170](https://github.com/chodocs/chodocs/pull/170) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
-2. 🎉 Merged PR [#169](https://github.com/chodocs/chodocs/pull/169) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
-3. 🎉 Merged PR [#168](https://github.com/chodocs/chodocs/pull/168) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
-4. 🎉 Merged PR [#167](https://github.com/chodocs/chodocs/pull/167) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
-5. 💪 Opened PR [#167](https://github.com/chodocs/chodocs/pull/167) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
+1. 🎉 Merged PR [#171](https://github.com/chodocs/chodocs/pull/171) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
+2. 💪 Opened PR [#171](https://github.com/chodocs/chodocs/pull/171) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
+3. 🎉 Merged PR [#170](https://github.com/chodocs/chodocs/pull/170) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
+4. 💪 Opened PR [#170](https://github.com/chodocs/chodocs/pull/170) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
+5. 🎉 Merged PR [#169](https://github.com/chodocs/chodocs/pull/169) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
 <!--END_SECTION:activity-->
 
 </td>
