@@ -8,7 +8,7 @@
 - :tangerine: 交个朋友：微信号「ybgChocolate」（添加请备注事由）
 - :watermelon: 活跃社区：[csdn](https://chocolate.blog.csdn.net/) | [juejin](https://juejin.im/user/2981531267112520) | [zhihu](https://www.zhihu.com/people/100chocolate)
 
-## 2022 年目标 :dart:
+## 2023 年目标 :dart:
 
 bilibili 达成 `10000` 粉丝成就，[关注这个持续学习的 UP](https://space.bilibili.com/351534170)
 
