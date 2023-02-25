@@ -63,11 +63,11 @@ bilibili 达成 `10000` 粉丝成就，[关注这个持续学习的 UP](https://
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#37](https://github.com/Chocolate1999/hexo-blog-lionkk/issues/37) in [Chocolate1999/hexo-blog-lionkk](https://github.com/Chocolate1999/hexo-blog-lionkk)
-2. ❗️ Opened issue [#172](https://github.com/chodocs/chodocs/issues/172) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
-3. 🎉 Merged PR [#171](https://github.com/chodocs/chodocs/pull/171) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
-4. 💪 Opened PR [#171](https://github.com/chodocs/chodocs/pull/171) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
-5. 🎉 Merged PR [#170](https://github.com/chodocs/chodocs/pull/170) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
+1. 🎉 Merged PR [#173](https://github.com/chodocs/chodocs/pull/173) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
+2. 💪 Opened PR [#173](https://github.com/chodocs/chodocs/pull/173) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
+3. ❗️ Closed issue [#37](https://github.com/Chocolate1999/hexo-blog-lionkk/issues/37) in [Chocolate1999/hexo-blog-lionkk](https://github.com/Chocolate1999/hexo-blog-lionkk)
+4. ❗️ Opened issue [#172](https://github.com/chodocs/chodocs/issues/172) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
+5. 🎉 Merged PR [#171](https://github.com/chodocs/chodocs/pull/171) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
 <!--END_SECTION:activity-->
 
 </td>
