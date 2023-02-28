@@ -63,11 +63,11 @@ bilibili 达成 `10000` 粉丝成就，[关注这个持续学习的 UP](https://
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#179](https://github.com/chodocs/chodocs/pull/179) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
-2. 🎉 Merged PR [#44](https://github.com/Chocolate1999/nextjs-tailwind-blog/pull/44) in [Chocolate1999/nextjs-tailwind-blog](https://github.com/Chocolate1999/nextjs-tailwind-blog)
-3. 🎉 Merged PR [#176](https://github.com/chodocs/chodocs/pull/176) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
-4. 🎉 Merged PR [#178](https://github.com/chodocs/chodocs/pull/178) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
-5. 💪 Opened PR [#178](https://github.com/chodocs/chodocs/pull/178) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
+1. 🎉 Merged PR [#179](https://github.com/chodocs/chodocs/pull/179) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
+2. 💪 Opened PR [#179](https://github.com/chodocs/chodocs/pull/179) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
+3. 🎉 Merged PR [#44](https://github.com/Chocolate1999/nextjs-tailwind-blog/pull/44) in [Chocolate1999/nextjs-tailwind-blog](https://github.com/Chocolate1999/nextjs-tailwind-blog)
+4. 🎉 Merged PR [#176](https://github.com/chodocs/chodocs/pull/176) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
+5. 🎉 Merged PR [#178](https://github.com/chodocs/chodocs/pull/178) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
 <!--END_SECTION:activity-->
 
 </td>
