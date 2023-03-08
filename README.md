@@ -63,11 +63,11 @@ bilibili 达成 `10000` 粉丝成就，[关注这个持续学习的 UP](https://
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#33](https://github.com/Chocolate1999/nextjs-tailwind-blog/issues/33) in [Chocolate1999/nextjs-tailwind-blog](https://github.com/Chocolate1999/nextjs-tailwind-blog)
-2. 🎉 Merged PR [#59](https://github.com/Chocolate1999/nextjs-tailwind-blog/pull/59) in [Chocolate1999/nextjs-tailwind-blog](https://github.com/Chocolate1999/nextjs-tailwind-blog)
-3. 🎉 Merged PR [#60](https://github.com/Chocolate1999/nextjs-tailwind-blog/pull/60) in [Chocolate1999/nextjs-tailwind-blog](https://github.com/Chocolate1999/nextjs-tailwind-blog)
-4. 🎉 Merged PR [#61](https://github.com/Chocolate1999/nextjs-tailwind-blog/pull/61) in [Chocolate1999/nextjs-tailwind-blog](https://github.com/Chocolate1999/nextjs-tailwind-blog)
-5. 💪 Opened PR [#61](https://github.com/Chocolate1999/nextjs-tailwind-blog/pull/61) in [Chocolate1999/nextjs-tailwind-blog](https://github.com/Chocolate1999/nextjs-tailwind-blog)
+1. 🎉 Merged PR [#63](https://github.com/Chocolate1999/nextjs-tailwind-blog/pull/63) in [Chocolate1999/nextjs-tailwind-blog](https://github.com/Chocolate1999/nextjs-tailwind-blog)
+2. 🎉 Merged PR [#62](https://github.com/Chocolate1999/nextjs-tailwind-blog/pull/62) in [Chocolate1999/nextjs-tailwind-blog](https://github.com/Chocolate1999/nextjs-tailwind-blog)
+3. ❗️ Closed issue [#33](https://github.com/Chocolate1999/nextjs-tailwind-blog/issues/33) in [Chocolate1999/nextjs-tailwind-blog](https://github.com/Chocolate1999/nextjs-tailwind-blog)
+4. 🎉 Merged PR [#59](https://github.com/Chocolate1999/nextjs-tailwind-blog/pull/59) in [Chocolate1999/nextjs-tailwind-blog](https://github.com/Chocolate1999/nextjs-tailwind-blog)
+5. 🎉 Merged PR [#60](https://github.com/Chocolate1999/nextjs-tailwind-blog/pull/60) in [Chocolate1999/nextjs-tailwind-blog](https://github.com/Chocolate1999/nextjs-tailwind-blog)
 <!--END_SECTION:activity-->
 
 </td>
