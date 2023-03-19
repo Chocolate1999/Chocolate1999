@@ -63,11 +63,11 @@ bilibili 达成 `10000` 粉丝成就，[关注这个持续学习的 UP](https://
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#202](https://github.com/chodocs/chodocs/issues/202) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
-2. ❗️ Closed issue [#200](https://github.com/chodocs/chodocs/issues/200) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
-3. 🎉 Merged PR [#201](https://github.com/chodocs/chodocs/pull/201) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
-4. 💪 Opened PR [#201](https://github.com/chodocs/chodocs/pull/201) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
-5. ❗️ Opened issue [#200](https://github.com/chodocs/chodocs/issues/200) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
+1. 💪 Opened PR [#203](https://github.com/chodocs/chodocs/pull/203) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
+2. ❗️ Opened issue [#202](https://github.com/chodocs/chodocs/issues/202) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
+3. ❗️ Closed issue [#200](https://github.com/chodocs/chodocs/issues/200) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
+4. 🎉 Merged PR [#201](https://github.com/chodocs/chodocs/pull/201) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
+5. 💪 Opened PR [#201](https://github.com/chodocs/chodocs/pull/201) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
 <!--END_SECTION:activity-->
 
 </td>
