@@ -18,6 +18,15 @@ bilibili 达成 `10000` 粉丝成就，[关注这个持续学习的 UP](https://
 [![stars](https://img.shields.io/github/stars/Chocolate1999?color=fefb7b&logo=Undertale)](https://github-readme-stats.vercel.app/api?username=Chocolate1999&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
 [![AweSome](https://img.shields.io/badge/Awesome-Chocolate-c780fa?logo=Awesome-Lists)](https://github.com/Chocolate1999/awesome-stars-chocolate#readme)
 
+## ChoDocs 文章更新
+
+<a href="https://chodocs.cn/"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
+
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
 ## :computer: 语言工具
 
 <div style="flex">
