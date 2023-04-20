@@ -24,17 +24,17 @@ bilibili 达成 `10000` 粉丝成就，[关注这个持续学习的 UP](https://
 
 
 <!-- BLOG-POST-LIST:START -->
-- 🤭 [vue3-management-system](https://chodocs.cn/vuejs/vue3-management-system/index.html) 
+- 🤭 [ChoDocs 的 VitePress 插件折腾记录](https://chodocs.cn/program/vitepress-plugin/index.html) 
 
-- 👹 [给你的 Next.js 项目优雅地添加 sitemap](https://chodocs.cn/nextjs/sitemap/index.html) 
+- 👹 [vue3-management-system](https://chodocs.cn/vuejs/vue3-management-system/index.html) 
 
-- 🐻 [23 年 4 月份学习动态](https://chodocs.cn/weekly/202304.html) 
+- 🐻 [给你的 Next.js 项目优雅地添加 sitemap](https://chodocs.cn/nextjs/sitemap/index.html) 
 
-- 🥸 [金三银四面试题汇总之三月面试遇见的前端题](https://chodocs.cn/interview/isolcat/index.html) 
+- 🥸 [23 年 4 月份学习动态](https://chodocs.cn/weekly/202304.html) 
 
-- 🤓 [23 年 3 月份学习动态](https://chodocs.cn/weekly/202303.html) 
+- 🤓 [金三银四面试题汇总之三月面试遇见的前端题](https://chodocs.cn/interview/isolcat/index.html) 
 
-- 🧰 [23 年每周学习动态公开](https://chodocs.cn/weekly/guide.html) 
+- 🧰 [23 年 3 月份学习动态](https://chodocs.cn/weekly/202303.html) 
 <!-- BLOG-POST-LIST:END -->
 
 ## :computer: 语言工具
