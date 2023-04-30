@@ -82,11 +82,11 @@ bilibili 达成 `10000` 粉丝成就，[关注这个持续学习的 UP](https://
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#242](https://github.com/chodocs/chodocs/pull/242) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
-2. 💪 Opened PR [#242](https://github.com/chodocs/chodocs/pull/242) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
-3. 🎉 Merged PR [#71](https://github.com/chovue/vue3-management-system/pull/71) in [chovue/vue3-management-system](https://github.com/chovue/vue3-management-system)
-4. 🎉 Merged PR [#239](https://github.com/chodocs/chodocs/pull/239) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
-5. 🎉 Merged PR [#238](https://github.com/chodocs/chodocs/pull/238) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
+1. 🎉 Merged PR [#240](https://github.com/chodocs/chodocs/pull/240) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
+2. 🎉 Merged PR [#241](https://github.com/chodocs/chodocs/pull/241) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
+3. 🎉 Merged PR [#242](https://github.com/chodocs/chodocs/pull/242) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
+4. 💪 Opened PR [#242](https://github.com/chodocs/chodocs/pull/242) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
+5. 🎉 Merged PR [#71](https://github.com/chovue/vue3-management-system/pull/71) in [chovue/vue3-management-system](https://github.com/chovue/vue3-management-system)
 <!--END_SECTION:activity-->
 
 </td>
