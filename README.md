@@ -82,11 +82,11 @@ bilibili 达成 `10000` 粉丝成就，[关注这个持续学习的 UP](https://
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#72](https://github.com/chonext/blog/pull/72) in [chonext/blog](https://github.com/chonext/blog)
-2. 🎉 Merged PR [#71](https://github.com/chonext/blog/pull/71) in [chonext/blog](https://github.com/chonext/blog)
-3. ❌ Reopened PR [#71](https://github.com/chonext/blog/pull/71) in [chonext/blog](https://github.com/chonext/blog)
-4. ❌ Closed PR [#71](https://github.com/chonext/blog/pull/71) in [chonext/blog](https://github.com/chonext/blog)
-5. 💪 Opened PR [#71](https://github.com/Chocolate1999/nextjs-tailwind-blog/pull/71) in [Chocolate1999/nextjs-tailwind-blog](https://github.com/Chocolate1999/nextjs-tailwind-blog)
+1. ❗️ Closed issue [#15](https://github.com/chonext/blog/issues/15) in [chonext/blog](https://github.com/chonext/blog)
+2. 🗣 Commented on [#15](https://github.com/chonext/blog/issues/15) in [chonext/blog](https://github.com/chonext/blog)
+3. ❗️ Closed issue [#36](https://github.com/chonext/blog/issues/36) in [chonext/blog](https://github.com/chonext/blog)
+4. ❗️ Closed issue [#47](https://github.com/chonext/blog/issues/47) in [chonext/blog](https://github.com/chonext/blog)
+5. ❗️ Closed issue [#70](https://github.com/chonext/blog/issues/70) in [chonext/blog](https://github.com/chonext/blog)
 <!--END_SECTION:activity-->
 
 </td>
