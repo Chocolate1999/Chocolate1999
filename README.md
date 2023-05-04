@@ -82,11 +82,11 @@ bilibili 达成 `10000` 粉丝成就，[关注这个持续学习的 UP](https://
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#76](https://github.com/chonext/blog/issues/76) in [chonext/blog](https://github.com/chonext/blog)
-2. 🎉 Merged PR [#75](https://github.com/chonext/blog/pull/75) in [chonext/blog](https://github.com/chonext/blog)
-3. 🎉 Merged PR [#74](https://github.com/chonext/blog/pull/74) in [chonext/blog](https://github.com/chonext/blog)
-4. 💪 Opened PR [#74](https://github.com/chonext/blog/pull/74) in [chonext/blog](https://github.com/chonext/blog)
-5. ❌ Closed PR [#66](https://github.com/chonext/blog/pull/66) in [chonext/blog](https://github.com/chonext/blog)
+1. 🎉 Merged PR [#249](https://github.com/chodocs/chodocs/pull/249) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
+2. ❗️ Opened issue [#76](https://github.com/chonext/blog/issues/76) in [chonext/blog](https://github.com/chonext/blog)
+3. 🎉 Merged PR [#75](https://github.com/chonext/blog/pull/75) in [chonext/blog](https://github.com/chonext/blog)
+4. 🎉 Merged PR [#74](https://github.com/chonext/blog/pull/74) in [chonext/blog](https://github.com/chonext/blog)
+5. 💪 Opened PR [#74](https://github.com/chonext/blog/pull/74) in [chonext/blog](https://github.com/chonext/blog)
 <!--END_SECTION:activity-->
 
 </td>
