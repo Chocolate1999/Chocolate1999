@@ -64,7 +64,7 @@ bilibili 达成 `10000` 粉丝成就，[关注这个持续学习的 UP](https://
 ## :fire: 项目 
 
 - [CODING 官网](https://coding.net/)（使用 Next.js + Tailwind CSS）
-- 更多内容，查看 [Projects](https://blog.yangchaoyi.vip/projects)
+- 更多内容，查看 [Projects](https://yangchaoyi.vip/projects)
 
 > 座右铭：学如逆水行舟，不进则退。
 
