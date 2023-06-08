@@ -7,7 +7,6 @@
 - :strawberry: 更新频率：不定期更新，用心做好原创内容。
 - :tangerine: 交个朋友：微信号「ybgChocolate」（添加请备注事由）
 - :watermelon: 活跃社区：[csdn](https://chocolate.blog.csdn.net/) | [juejin](https://juejin.im/user/2981531267112520) | [zhihu](https://www.zhihu.com/people/100chocolate)
-- :earth_asia: 知识星球：[小狮子前端](https://chodocs.cn/zsxq.html)
 - :corn: 效率工具：[chocolate/use](https://github.com/Chocolate1999/use)
 
 ## :dart: 2023 年目标 
