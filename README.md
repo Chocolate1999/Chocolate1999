@@ -24,17 +24,17 @@ bilibili 达成 `10000` 粉丝成就，[关注这个持续学习的 UP](https://
 
 
 <!-- BLOG-POST-LIST:START -->
-- 🤭 [23 年 9 月份学习动态](https://chodocs.cn/weekly/202309.html) 
+- 🤭 [23 年 10 月份学习动态](https://chodocs.cn/weekly/202310.html) 
 
-- 👹 [23 年 8 月份学习动态](https://chodocs.cn/weekly/202308.html) 
+- 👹 [23 年 9 月份学习动态](https://chodocs.cn/weekly/202309.html) 
 
-- 🐻 [23 年 7 月份学习动态](https://chodocs.cn/weekly/202307.html) 
+- 🐻 [23 年 8 月份学习动态](https://chodocs.cn/weekly/202308.html) 
 
-- 🥸 [工作中的那些糟心事儿](https://chodocs.cn/essay/ch3.html) 
+- 🥸 [23 年 7 月份学习动态](https://chodocs.cn/weekly/202307.html) 
 
-- 🤓 [HearLing 的 2023 社招面试分享](https://chodocs.cn/interview/2023/hearling.html) 
+- 🤓 [工作中的那些糟心事儿](https://chodocs.cn/essay/ch3.html) 
 
-- 🧰 [23 年 6 月份学习动态](https://chodocs.cn/weekly/202306.html) 
+- 🧰 [HearLing 的 2023 社招面试分享](https://chodocs.cn/interview/2023/hearling.html) 
 <!-- BLOG-POST-LIST:END -->
 
 ## :computer: 语言工具
