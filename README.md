@@ -82,11 +82,11 @@ bilibili 达成 `10000` 粉丝成就，[关注这个持续学习的 UP](https://
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#313](https://github.com/chodocs/chodocs/pull/313) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
-2. 🎉 Merged PR [#310](https://github.com/chodocs/chodocs/pull/310) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
-3. 🗣 Commented on [#144](https://github.com/valor-x/hexo-theme-solitude/issues/144#issuecomment-1986802292) in [valor-x/hexo-theme-solitude](https://github.com/valor-x/hexo-theme-solitude)
-4. ❗ Opened issue [#144](https://github.com/valor-x/hexo-theme-solitude/issues/144) in [valor-x/hexo-theme-solitude](https://github.com/valor-x/hexo-theme-solitude)
-5. 💪 Opened PR [#310](https://github.com/chodocs/chodocs/pull/310) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
+1. 🎉 Merged PR [#313](https://github.com/chodocs/chodocs/pull/313) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
+2. 💪 Opened PR [#313](https://github.com/chodocs/chodocs/pull/313) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
+3. 🎉 Merged PR [#310](https://github.com/chodocs/chodocs/pull/310) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
+4. 🗣 Commented on [#144](https://github.com/valor-x/hexo-theme-solitude/issues/144#issuecomment-1986802292) in [valor-x/hexo-theme-solitude](https://github.com/valor-x/hexo-theme-solitude)
+5. ❗ Opened issue [#144](https://github.com/valor-x/hexo-theme-solitude/issues/144) in [valor-x/hexo-theme-solitude](https://github.com/valor-x/hexo-theme-solitude)
 <!--END_SECTION:activity-->
 
 </td>
