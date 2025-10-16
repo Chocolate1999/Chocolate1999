@@ -82,11 +82,11 @@ bilibili 达成 `10000` 粉丝成就，[关注这个持续学习的 UP](https://
 <td valign="top">
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#328](undefined) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
-2. ❌ Closed PR [#304](undefined) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
-3. ❌ Closed PR [#300](undefined) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
-4. ❌ Closed PR [#283](undefined) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
-5. ❌ Closed PR [#305](undefined) in [chodocs/chodocs](https://github.com/chodocs/chodocs)
+1. ❌ Closed PR [#100](undefined) in [chonext/blog](https://github.com/chonext/blog)
+2. ❌ Closed PR [#102](undefined) in [chonext/blog](https://github.com/chonext/blog)
+3. ❌ Closed PR [#107](undefined) in [chonext/blog](https://github.com/chonext/blog)
+4. ❌ Closed PR [#104](undefined) in [chonext/blog](https://github.com/chonext/blog)
+5. ❌ Closed PR [#103](undefined) in [chonext/blog](https://github.com/chonext/blog)
 <!--END_SECTION:activity-->
 
 </td>
